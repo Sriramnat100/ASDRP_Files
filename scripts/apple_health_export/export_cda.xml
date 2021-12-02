@@ -13,7 +13,7 @@
   <patientRole>
    <id root="2.16.840.1.113883.4.6" nullFlavor="NA"/>
    <patient>
-    <name use="CL">Sriram Natarajan</name>
+    <name use="CL">Suri Work Natarajan</name>
     <birthTime value=""/>
    </patient>
   </patientRole>

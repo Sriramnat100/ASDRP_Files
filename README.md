@@ -29,7 +29,7 @@ The model is built using TensorFlow and Keras, with a Sequential Model containin
 
 These graphs represent the training and validation accuracy and loss over 10 epochs. 
 
-### 2 Epochs: ~77% Accuracy
+### 2 Epochs: ~78% Accuracy
 
 - Training and validation accuracy and loss over 2 epochs. 
 

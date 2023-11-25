@@ -74,7 +74,11 @@ Follow these steps to set up and run the detection model:
     import numpy as np
 
 4. **Change paths**
-    Change the testing and training directories appropriately, then run the cells in order. 
+    ```bash
+    # Change the testing and training directories appropriately, then run the cells in order.
+    train_dir = "path/to/training/data"
+    test_dir = "path/to/testing/data"
+   
 
 ## Credits
 

@@ -69,9 +69,16 @@ Follow these steps to set up and run the detection model:
     pip install matplotlib 
     pip install numpy
 
-    import tensorflow as tf
-    import matplotlib at plt 
-    import numpy as np
+   import tensorflow as tf
+   from tensorflow import keras
+   from tensorflow.keras.preprocessing.image import ImageDataGenerator
+   import matplotlib.pyplot as plt
+   from tensorflow.keras.models import Sequential
+   from tensorflow.keras import layers
+   from tensorflow.keras.optimizers import SGD
+   from tensorflow.keras import models
+   import numpy as np
+   import matplotlib.pyplot as plt
 
 4. **Change paths**
     ```bash

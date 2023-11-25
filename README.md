@@ -64,7 +64,14 @@ Follow these steps to set up and run the detection model:
   Download manually from: https://www.kaggle.com/datasets/yasserhessein/dataset-alzheimer
 
 3. **Import the required libraries**
-    pip install tensorflow matplotlib numpy
+    ```bash
+    pip install tensorflow 
+    pip install matplotlib 
+    pip install numpy
+
+    import tensorflow as tf
+    import matplotlib at plt 
+    import numpy as np
 
 4. **Change paths**
     Change the testing and training directories appropriately, then run the cells in order. 
